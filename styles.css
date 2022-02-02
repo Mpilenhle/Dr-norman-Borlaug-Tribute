@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+}
+#title{
+  font-family: 'Roboto', sans-serif;
+}
+#img-div{
+  position: relative;
+}
+li {
+  padding: 10px 0;
+  font-family: 'Lora', serif;
+}
+.quote{
+  padding: 0 25%;
+  text-align: left;
+}
+.wiki{
+  padding: 30px 0 0 0;
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+h2 {
+  font-weight: bold;
+}
+p{
+  font-family: sans-serif;
+}
+#main{
+  background-color: #cdcdcd;
+  padding: 50px;
+  border-radius: 10px;
+}
+#img-div{
+  background-color: #fff;
+  padding: 2% 1%;
+}
+#tribute-info{
+  padding: 3% 25%;
+  text-align: left;
+}
+.timeline{
+  font-family: sans-serif;
+  padding: 3% 0 0 0;
+}
+@media (max-width: 1028px){
+  #image{
+    width: 100%;
+  }
+}
